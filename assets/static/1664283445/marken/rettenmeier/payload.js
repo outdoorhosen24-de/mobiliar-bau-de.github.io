@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/rettenmeier", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/massivholz-tischplatte-wildeiche-mit-baumkante-geoelt-fsc-r-180-x-80-x-28-cm-rettenmeier-1791698-1.jpg":"\u002Fassets\u002Fimages\u002Fmassivholz-tischplatte-wildeiche-mit-baumkante-geoelt-fsc-r-180-x-80-x-28-cm-rettenmeier-1791698-1.webp"}}],fetch:{},mutations:void 0});

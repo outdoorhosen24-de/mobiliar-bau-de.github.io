@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/praktikus", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wandanschlussleiste-300-x-5-cm-silbergrau-praktikus-7664915-1.jpg":"\u002Fassets\u002Fimages\u002Fwandanschlussleiste-300-x-5-cm-silbergrau-praktikus-7664915-1.webp"}}],fetch:{},mutations:void 0});
