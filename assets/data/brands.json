@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,25 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "kaindl",
+        "name": "Kaindl",
+        "slug": "kaindl",
+        "productCategory": "Kaindl",
+        "localThumb": "/assets/images/hersteller/kaindl.webp"
+    },
+    {
+        "key": "flex-well",
+        "name": "Flex-Well",
+        "slug": "flex-well",
+        "productCategory": "Flex-Well",
+        "localThumb": "/assets/images/hersteller/flex-well.webp"
+    },
+    {
+        "key": "flex-well classic",
+        "name": "Flex-Well Classic",
+        "slug": "flex-well-classic",
+        "productCategory": "Flex-Well Classic",
+        "localThumb": "/assets/images/hersteller/flex-well-classic.webp"
     },
     {
         "key": "obi",
@@ -35,52 +35,38 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "osmo",
+        "name": "Osmo",
+        "slug": "osmo",
+        "productCategory": "Osmo",
+        "localThumb": "/assets/images/hersteller/osmo.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "praktikus",
+        "name": "Praktikus",
+        "slug": "praktikus",
+        "productCategory": "Praktikus",
+        "localThumb": "/assets/images/hersteller/praktikus.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "kraftholz by rettenmeier",
+        "name": "Kraftholz by rettenmeier",
+        "slug": "kraftholz-by-rettenmeier",
+        "productCategory": "Kraftholz by rettenmeier",
+        "localThumb": "/assets/images/hersteller/kraftholz-by-rettenmeier.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "rettenmeier",
+        "name": "Rettenmeier",
+        "slug": "rettenmeier",
+        "productCategory": "Rettenmeier",
+        "localThumb": "/assets/images/hersteller/rettenmeier.webp"
     }
 ]
