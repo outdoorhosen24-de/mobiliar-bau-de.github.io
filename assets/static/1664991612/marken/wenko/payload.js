@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/wenko", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-gewuerzregal-mit-turbo-loc-befestigungssystem-chrom-wenko-3018058-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-gewuerzregal-mit-turbo-loc-befestigungssystem-chrom-wenko-3018058-1.webp"}}],fetch:{},mutations:void 0});

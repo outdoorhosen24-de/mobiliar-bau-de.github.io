@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/flex-well-classic", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/flex-well-arbeitsplatte-150-x-60-x-28-cm-caledonia-flex-well-classic-1643964-1.jpg":"\u002Fassets\u002Fimages\u002Fflex-well-arbeitsplatte-150-x-60-x-28-cm-caledonia-flex-well-classic-1643964-1.webp"}}],fetch:{},mutations:void 0});
