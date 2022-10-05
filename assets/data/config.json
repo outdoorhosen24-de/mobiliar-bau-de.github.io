@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "mobiliar-bau.de",
+    "hostname": "https://www.mobiliar-bau.de/",
+    "email": "mobiliar-bau.desurrealnetworks.io",
+    "organization": "mobiliar-bau.de",
+    "logoText": "Mobiliar-bau.de",
+    "title": "M\u00f6belbau",
+    "subline": "Der Online Shop f\u00fcr M\u00f6belbau",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "6283352",
+        "8536567",
+        "1756808",
+        "7452600",
+        "7258429",
+        "4299665"
+    ],
+    "winnerProducts": [
+        "6108179",
+        "5292792",
+        "1794023"
+    ],
+    "featuredCategories": [
+        "Regalb\u00f6den & M\u00f6belbauplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Regalb\u00f6den & M\u00f6belbauplatten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "M\u00f6belbau",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Gesch\u00e4ft ist auf M\u00f6belbau spezialisiert. Hier finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen. Vom Tisch bis zum Sofa, vom Stuhl bis zum Bett, vom Schrank bis zum Regal. Wir haben auch eine gro\u00dfe Auswahl an Accessoires und Dekorationen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "M\u00f6belbau: Einzigartige M\u00f6bel f\u00fcr Ihr Zuhause",
+            "metaDescription": "M\u00f6belbau ist ein Handwerk, das auf die Herstellung von M\u00f6beln und Einrichtungsgegenst\u00e4nden spezialisiert ist. In unserem Shop finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "M\u00f6belbau: Die Kunst des M\u00f6belbaus",
+                    "text": "M\u00f6belbau ist die Kunst und Wissenschaft der Herstellung von M\u00f6beln. Es umfasst die Planung, Konstruktion und Herstellung von M\u00f6beln. Die Planung von M\u00f6beln beinhaltet die Erstellung von Zeichnungen und Modellen, die Konstruktion beinhaltet die Herstellung von Rahmen und Strukturen und die Herstellung beinhaltet die Herstellung von Oberfl\u00e4chen und Finishes.\n\nM\u00f6belbau ist eine alte Kunst, die bereits in der Antike praktiziert wurde. Die \u00e4gyptischen, griechischen und r\u00f6mischen Kulturen haben alle ihre eigenen Stile und Techniken entwickelt. In der Renaissance wurden die italienischen M\u00f6belst\u00fccke zu Vorbildern f\u00fcr die gesamte europ\u00e4ische M\u00f6belindustrie.\n\nDie Deutschen haben eine lange Tradition im M\u00f6belbau und haben viele ber\u00fchmte M\u00f6belst\u00fccke hergestellt. Einige der bekanntesten deutschen M\u00f6belst\u00fccke sind die Biedermeier-M\u00f6bel, die im 19. Jahrhundert sehr beliebt waren. Die Bauhaus-M\u00f6bel wurden in den 1920er Jahren entwickelt und sind heute noch sehr beliebt.\n\nM\u00f6belbau ist eine anspruchsvolle Kunst, die viel K\u00f6nnen und Erfahrung erfordert. Um erfolgreich zu sein, m\u00fcssen Sie \u00fcber ein gutes Auge f\u00fcr Design und ein gutes Gef\u00fchl f\u00fcr Struktur und Proportionen verf\u00fcgen. Sie m\u00fcssen auch \u00fcber ein gutes Verst\u00e4ndnis f\u00fcr Holz und andere Materialien verf\u00fcgen.\n\nM\u00f6belbau ist eine anspruchsvolle Kunst"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "M\u00f6belbau-Shop: Individuelle M\u00f6bel nach Ma\u00df",
+            "metaDescription": "M\u00f6belbau-Shop: Hier finden Sie alles f\u00fcr Ihr Zuhause - von der Couch bis zum Kleiderschrank. Schnelle Lieferung und kompetente Beratung!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "M\u00f6belbau-Hersteller: Qualit\u00e4t und Innovation seit Jahrzehnten.",
+            "metaDescription": "M\u00f6belbau ist ein deutscher Hersteller von hochwertigen M\u00f6beln. Wir bieten eine gro\u00dfe Auswahl an unterschiedlichen M\u00f6beln f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "M\u00f6belbau: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE und finden Sie die perfekte Einrichtung f\u00fcr Ihr Zuhause.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "M\u00f6belbau: $KATEGORIE f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "M\u00f6belbau ist die Kunst und Wissenschaft des Bauens von M\u00f6beln. $KATEGORIE ist eine Kategorie von M\u00f6beln, die aufgrund ihrer Funktion, Form oder \u00c4sthetik hergestellt werden.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "M\u00f6belbau $HERSTELLER - Wir sind ein f\u00fchrender Hersteller von hochwertigen M\u00f6beln. Unsere Produkte werden in Deutschland hergestellt und sind f\u00fcr ihre Qualit\u00e4t und Langlebigkeit bekannt.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "M\u00f6belbau",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "M\u00f6belbau Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "M\u00f6belbau Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
