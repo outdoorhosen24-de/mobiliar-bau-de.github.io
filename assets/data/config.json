@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "mobiliar-bau.de",
     "hostname": "https://www.mobiliar-bau.de/",
     "email": "mobiliar-bau.desurrealnetworks.io",
     "organization": "mobiliar-bau.de",
     "logoText": "Mobiliar-bau.de",
-    "title": "M\u00f6belbau",
-    "subline": "Der Online Shop f\u00fcr M\u00f6belbau",
+    "title": "Möbelbau",
+    "subline": "Der Online Shop für Möbelbau",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "1794023"
     ],
     "featuredCategories": [
-        "Regalb\u00f6den & M\u00f6belbauplatten",
+        "Regalböden & Möbelbauplatten",
         "Arbeitsplatten",
         "Arbeitsplatten",
         "Arbeitsplatten",
         "Arbeitsplatten",
-        "Regalb\u00f6den & M\u00f6belbauplatten"
+        "Regalböden & Möbelbauplatten"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "M\u00f6belbau",
-        "featureText": "Das Gesch\u00e4ft ist auf M\u00f6belbau spezialisiert. Hier finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen. Vom Tisch bis zum Sofa, vom Stuhl bis zum Bett, vom Schrank bis zum Regal. Wir haben auch eine gro\u00dfe Auswahl an Accessoires und Dekorationen.",
+        "mainKeyword": "Möbelbau",
+        "featureText": "Das Geschäft ist auf Möbelbau spezialisiert. Hier finden Sie alles, was Sie für Ihr Zuhause brauchen. Vom Tisch bis zum Sofa, vom Stuhl bis zum Bett, vom Schrank bis zum Regal. Wir haben auch eine große Auswahl an Accessoires und Dekorationen.",
         "index": {
-            "title": "M\u00f6belbau: Einzigartige M\u00f6bel f\u00fcr Ihr Zuhause",
-            "metaDescription": "M\u00f6belbau ist ein Handwerk, das auf die Herstellung von M\u00f6beln und Einrichtungsgegenst\u00e4nden spezialisiert ist. In unserem Shop finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen.",
+            "title": "Möbelbau: Einzigartige Möbel für Ihr Zuhause",
+            "metaDescription": "Möbelbau ist ein Handwerk, das auf die Herstellung von Möbeln und Einrichtungsgegenständen spezialisiert ist. In unserem Shop finden Sie alles, was Sie für Ihr Zuhause brauchen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "M\u00f6belbau: Die Kunst des M\u00f6belbaus",
-                    "text": "M\u00f6belbau ist die Kunst und Wissenschaft der Herstellung von M\u00f6beln. Es umfasst die Planung, Konstruktion und Herstellung von M\u00f6beln. Die Planung von M\u00f6beln beinhaltet die Erstellung von Zeichnungen und Modellen, die Konstruktion beinhaltet die Herstellung von Rahmen und Strukturen und die Herstellung beinhaltet die Herstellung von Oberfl\u00e4chen und Finishes.\n\nM\u00f6belbau ist eine alte Kunst, die bereits in der Antike praktiziert wurde. Die \u00e4gyptischen, griechischen und r\u00f6mischen Kulturen haben alle ihre eigenen Stile und Techniken entwickelt. In der Renaissance wurden die italienischen M\u00f6belst\u00fccke zu Vorbildern f\u00fcr die gesamte europ\u00e4ische M\u00f6belindustrie.\n\nDie Deutschen haben eine lange Tradition im M\u00f6belbau und haben viele ber\u00fchmte M\u00f6belst\u00fccke hergestellt. Einige der bekanntesten deutschen M\u00f6belst\u00fccke sind die Biedermeier-M\u00f6bel, die im 19. Jahrhundert sehr beliebt waren. Die Bauhaus-M\u00f6bel wurden in den 1920er Jahren entwickelt und sind heute noch sehr beliebt.\n\nM\u00f6belbau ist eine anspruchsvolle Kunst, die viel K\u00f6nnen und Erfahrung erfordert. Um erfolgreich zu sein, m\u00fcssen Sie \u00fcber ein gutes Auge f\u00fcr Design und ein gutes Gef\u00fchl f\u00fcr Struktur und Proportionen verf\u00fcgen. Sie m\u00fcssen auch \u00fcber ein gutes Verst\u00e4ndnis f\u00fcr Holz und andere Materialien verf\u00fcgen.\n\nM\u00f6belbau ist eine anspruchsvolle Kunst"
+                    "title": "Möbelbau: Die Kunst des Möbelbaus",
+                    "text": "Möbelbau ist die Kunst und Wissenschaft der Herstellung von Möbeln. Es umfasst die Planung, Konstruktion und Herstellung von Möbeln. Die Planung von Möbeln beinhaltet die Erstellung von Zeichnungen und Modellen, die Konstruktion beinhaltet die Herstellung von Rahmen und Strukturen und die Herstellung beinhaltet die Herstellung von Oberflächen und Finishes.\n\nMöbelbau ist eine alte Kunst, die bereits in der Antike praktiziert wurde. Die ägyptischen, griechischen und römischen Kulturen haben alle ihre eigenen Stile und Techniken entwickelt. In der Renaissance wurden die italienischen Möbelstücke zu Vorbildern für die gesamte europäische Möbelindustrie.\n\nDie Deutschen haben eine lange Tradition im Möbelbau und haben viele berühmte Möbelstücke hergestellt. Einige der bekanntesten deutschen Möbelstücke sind die Biedermeier-Möbel, die im 19. Jahrhundert sehr beliebt waren. Die Bauhaus-Möbel wurden in den 1920er Jahren entwickelt und sind heute noch sehr beliebt.\n\nMöbelbau ist eine anspruchsvolle Kunst, die viel Können und Erfahrung erfordert. Um erfolgreich zu sein, müssen Sie über ein gutes Auge für Design und ein gutes Gefühl für Struktur und Proportionen verfügen. Sie müssen auch über ein gutes Verständnis für Holz und andere Materialien verfügen.\n\nMöbelbau ist eine anspruchsvolle Kunst"
                 }
             ]
         },
         "shop": {
-            "title": "M\u00f6belbau-Shop: Individuelle M\u00f6bel nach Ma\u00df",
-            "metaDescription": "M\u00f6belbau-Shop: Hier finden Sie alles f\u00fcr Ihr Zuhause - von der Couch bis zum Kleiderschrank. Schnelle Lieferung und kompetente Beratung!",
+            "title": "Möbelbau-Shop: Individuelle Möbel nach Maß",
+            "metaDescription": "Möbelbau-Shop: Hier finden Sie alles für Ihr Zuhause - von der Couch bis zum Kleiderschrank. Schnelle Lieferung und kompetente Beratung!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "M\u00f6belbau-Hersteller: Qualit\u00e4t und Innovation seit Jahrzehnten.",
-            "metaDescription": "M\u00f6belbau ist ein deutscher Hersteller von hochwertigen M\u00f6beln. Wir bieten eine gro\u00dfe Auswahl an unterschiedlichen M\u00f6beln f\u00fcr jeden Geschmack.",
+            "title": "Möbelbau-Hersteller: Qualität und Innovation seit Jahrzehnten.",
+            "metaDescription": "Möbelbau ist ein deutscher Hersteller von hochwertigen Möbeln. Wir bieten eine große Auswahl an unterschiedlichen Möbeln für jeden Geschmack.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "M\u00f6belbau: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE und finden Sie die perfekte Einrichtung f\u00fcr Ihr Zuhause.",
+        "defaultTitle": "Möbelbau: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an $KATEGORIE und finden Sie die perfekte Einrichtung für Ihr Zuhause.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "M\u00f6belbau: $KATEGORIE f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "M\u00f6belbau ist die Kunst und Wissenschaft des Bauens von M\u00f6beln. $KATEGORIE ist eine Kategorie von M\u00f6beln, die aufgrund ihrer Funktion, Form oder \u00c4sthetik hergestellt werden.",
+        "defaultTitle": "Möbelbau: $KATEGORIE für Ihr Zuhause",
+        "defaultMetaDescription": "Möbelbau ist die Kunst und Wissenschaft des Bauens von Möbeln. $KATEGORIE ist eine Kategorie von Möbeln, die aufgrund ihrer Funktion, Form oder Ästhetik hergestellt werden.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "M\u00f6belbau $HERSTELLER - Wir sind ein f\u00fchrender Hersteller von hochwertigen M\u00f6beln. Unsere Produkte werden in Deutschland hergestellt und sind f\u00fcr ihre Qualit\u00e4t und Langlebigkeit bekannt.",
+        "defaultMetaDescription": "Möbelbau $HERSTELLER - Wir sind ein führender Hersteller von hochwertigen Möbeln. Unsere Produkte werden in Deutschland hergestellt und sind für ihre Qualität und Langlebigkeit bekannt.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "M\u00f6belbau",
+            "linkTitle": "Möbelbau",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "M\u00f6belbau Shop",
+            "linkTitle": "Möbelbau Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "M\u00f6belbau Marken",
+            "linkTitle": "Möbelbau Marken",
             "publish": true
         },
         {
