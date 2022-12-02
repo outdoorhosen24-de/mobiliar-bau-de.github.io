@@ -51,12 +51,15 @@
             "title": "Möbelbau: Einzigartige Möbel für Ihr Zuhause",
             "metaDescription": "Möbelbau ist ein Handwerk, das auf die Herstellung von Möbeln und Einrichtungsgegenständen spezialisiert ist. In unserem Shop finden Sie alles, was Sie für Ihr Zuhause brauchen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Möbelbau: Die Kunst des Möbelbaus",
-                    "text": "Möbelbau ist die Kunst und Wissenschaft der Herstellung von Möbeln. Es umfasst die Planung, Konstruktion und Herstellung von Möbeln. Die Planung von Möbeln beinhaltet die Erstellung von Zeichnungen und Modellen, die Konstruktion beinhaltet die Herstellung von Rahmen und Strukturen und die Herstellung beinhaltet die Herstellung von Oberflächen und Finishes.\n\nMöbelbau ist eine alte Kunst, die bereits in der Antike praktiziert wurde. Die ägyptischen, griechischen und römischen Kulturen haben alle ihre eigenen Stile und Techniken entwickelt. In der Renaissance wurden die italienischen Möbelstücke zu Vorbildern für die gesamte europäische Möbelindustrie.\n\nDie Deutschen haben eine lange Tradition im Möbelbau und haben viele berühmte Möbelstücke hergestellt. Einige der bekanntesten deutschen Möbelstücke sind die Biedermeier-Möbel, die im 19. Jahrhundert sehr beliebt waren. Die Bauhaus-Möbel wurden in den 1920er Jahren entwickelt und sind heute noch sehr beliebt.\n\nMöbelbau ist eine anspruchsvolle Kunst, die viel Können und Erfahrung erfordert. Um erfolgreich zu sein, müssen Sie über ein gutes Auge für Design und ein gutes Gefühl für Struktur und Proportionen verfügen. Sie müssen auch über ein gutes Verständnis für Holz und andere Materialien verfügen.\n\nMöbelbau ist eine anspruchsvolle Kunst"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Möbelbau: Die Kunst des Möbelbaus",
+                        "text": "Möbelbau ist die Kunst und Wissenschaft der Herstellung von Möbeln. Es umfasst die Planung, Konstruktion und Herstellung von Möbeln. Die Planung von Möbeln beinhaltet die Erstellung von Zeichnungen und Modellen, die Konstruktion beinhaltet die Herstellung von Rahmen und Strukturen und die Herstellung beinhaltet die Herstellung von Oberflächen und Finishes.\n\nMöbelbau ist eine alte Kunst, die bereits in der Antike praktiziert wurde. Die ägyptischen, griechischen und römischen Kulturen haben alle ihre eigenen Stile und Techniken entwickelt. In der Renaissance wurden die italienischen Möbelstücke zu Vorbildern für die gesamte europäische Möbelindustrie.\n\nDie Deutschen haben eine lange Tradition im Möbelbau und haben viele berühmte Möbelstücke hergestellt. Einige der bekanntesten deutschen Möbelstücke sind die Biedermeier-Möbel, die im 19. Jahrhundert sehr beliebt waren. Die Bauhaus-Möbel wurden in den 1920er Jahren entwickelt und sind heute noch sehr beliebt.\n\nMöbelbau ist eine anspruchsvolle Kunst, die viel Können und Erfahrung erfordert. Um erfolgreich zu sein, müssen Sie über ein gutes Auge für Design und ein gutes Gefühl für Struktur und Proportionen verfügen. Sie müssen auch über ein gutes Verständnis für Holz und andere Materialien verfügen.\n\nMöbelbau ist eine anspruchsvolle Kunst"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Möbelbau-Shop: Individuelle Möbel nach Maß",
