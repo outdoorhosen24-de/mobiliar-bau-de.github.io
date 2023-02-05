@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "mobiliar-bau.de",
     "hostname": "https://www.mobiliar-bau.de/",
     "email": "mobiliar-bau.de@surrealnetworks.io",
     "organization": "mobiliar-bau.de",
     "logoText": "Mobiliar-bau.de",
-    "title": "Möbelbau",
-    "subline": "Der Online Shop für Möbelbau",
+    "title": "Möbelbau- und Arbeitsplatten",
+    "subline": "Der Online Shop für robuste Möbelbau- und Arbeitsplatten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Möbelbau",
-        "featureText": "Das Geschäft ist auf Möbelbau spezialisiert. Hier finden Sie alles, was Sie für Ihr Zuhause brauchen. Vom Tisch bis zum Sofa, vom Stuhl bis zum Bett, vom Schrank bis zum Regal. Wir haben auch eine große Auswahl an Accessoires und Dekorationen.",
+        "featureText": "Herzlich Willkommen. Wir von mobiliar-bau.de freuen uns dich bei uns begrüßen zu dürfen. Mit unseren Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr bieten wir dir eine tolle Auswahl für deine Möbel. Ebenfalls in unserem Sortiment - robuste und hochwertige Arbeitsplatten zu einem fairen Preis. Ob Eiche oder Nussbaum, wir bieten Qualität in den verschiedensten Ausführungen. So findest du die perfekte Arbeitsplatte für dich zum günstigen Preis!",
         "index": {
-            "title": "Möbelbau: Einzigartige Möbel für Ihr Zuhause",
-            "metaDescription": "Möbelbau ist ein Handwerk, das auf die Herstellung von Möbeln und Einrichtungsgegenständen spezialisiert ist. In unserem Shop finden Sie alles, was Sie für Ihr Zuhause brauchen.",
+            "title": "Robuste Möbelbau- und Arbeitsplatten günstig bestellen",
+            "metaDescription": "Kaufe jetzt auf mobiliar-bau.de robuste Arbeitsplatten aus Eiche oder Nussbaum. Für die Möbel - Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Möbelbau-Shop: Individuelle Möbel nach Maß",
-            "metaDescription": "Möbelbau-Shop: Hier finden Sie alles für Ihr Zuhause - von der Couch bis zum Kleiderschrank. Schnelle Lieferung und kompetente Beratung!",
+            "title": "Der Shop für Möbelbau- und Arbeitsplatten | mobiliar-bau.de",
+            "metaDescription": "Kaufe jetzt in unserem Online Shop robuste Arbeitsplatten aus Eiche oder Nussbaum oder Möbelbauplatten & Regalböden aus Fichte, Birke, Akazie und mehr.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Möbelbau-Hersteller: Qualität und Innovation seit Jahrzehnten.",
-            "metaDescription": "Möbelbau ist ein deutscher Hersteller von hochwertigen Möbeln. Wir bieten eine große Auswahl an unterschiedlichen Möbeln für jeden Geschmack.",
+            "title": "Qualität die sich bewehrt | mobiliar-bau.de",
+            "metaDescription": "Kaufe jetzt unsere hochwertigen und robusten Produkte von bekannten Herstellern wie OBI, Osmo, Kaindl, Flex-Well, Wenko oder Rettenmeier.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Möbelbau: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an $KATEGORIE und finden Sie die perfekte Einrichtung für Ihr Zuhause.",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "Robust und hochwertig: $PRODUKT von der Marke $HERSTELLER. Finde auf mobiliar-bau.de das beste aus dem Bereich $KATEGORIE für dein Zuhause.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Möbelbau: $KATEGORIE für Ihr Zuhause",
-        "defaultMetaDescription": "Möbelbau ist die Kunst und Wissenschaft des Bauens von Möbeln. $KATEGORIE ist eine Kategorie von Möbeln, die aufgrund ihrer Funktion, Form oder Ästhetik hergestellt werden.",
+        "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
+        "defaultMetaDescription": "Hier findest du die Kombination von Qualität und Robustheit - Kaufe jetzt auf mobiliar-bau.de das Beste aus dem Bereich der $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Möbelbau $HERSTELLER - Wir sind ein führender Hersteller von hochwertigen Möbeln. Unsere Produkte werden in Deutschland hergestellt und sind für ihre Qualität und Langlebigkeit bekannt.",
+        "defaultTitle": "$HERSTELLER | Qualitativ & Robust",
+        "defaultMetaDescription": "Kaufe jetzt unsere hochwertigen Arbeitsplatten oder Regalböden & Möbelbauplatten von bewährten Herstellern wie $HERSTELLER. ",
         "defaultRobots": "index, follow",
         "brands": [
             {
