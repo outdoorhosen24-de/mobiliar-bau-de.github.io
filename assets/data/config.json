@@ -1,172 +1,175 @@
 {
-    "configIsReady": true,
-    "domain": "mobiliar-bau.de",
-    "hostname": "https://www.mobiliar-bau.de/",
-    "email": "mobiliar-bau.de@surrealnetworks.io",
-    "organization": "mobiliar-bau.de",
-    "logoText": "Mobiliar-bau.de",
-    "title": "Möbelbau- und Arbeitsplatten",
-    "subline": "Der Online Shop für robuste Möbelbau- und Arbeitsplatten",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "6283352",
-        "8536567",
-        "1756808",
-        "7452600",
-        "7258429",
-        "4299665"
-    ],
-    "winnerProducts": [
-        "6108179",
-        "5292792",
-        "1794023"
-    ],
-    "featuredCategories": [
-        "Regalböden & Möbelbauplatten",
-        "Arbeitsplatten",
-        "Arbeitsplatten",
-        "Arbeitsplatten",
-        "Arbeitsplatten",
-        "Regalböden & Möbelbauplatten"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Möbelbau",
-        "featureText": "Herzlich Willkommen. Wir von mobiliar-bau.de freuen uns dich bei uns begrüßen zu dürfen. Mit unseren Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr bieten wir dir eine tolle Auswahl für deine Möbel. Ebenfalls in unserem Sortiment - robuste und hochwertige Arbeitsplatten zu einem fairen Preis. Ob Eiche oder Nussbaum, wir bieten Qualität in den verschiedensten Ausführungen. So findest du die perfekte Arbeitsplatte für dich zum günstigen Preis!",
-        "index": {
-            "title": "Robuste Möbelbau- und Arbeitsplatten günstig bestellen",
-            "metaDescription": "Kaufe jetzt auf mobiliar-bau.de robuste Arbeitsplatten aus Eiche oder Nussbaum. Für die Möbel - Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Mobiliar-Bau - Ihrem Experten für Möbelbau",
-                        "text": "Herzlich willkommen auf Mobiliar-Bau, Ihrem Online-Shop für hochwertige Regalböden und Möbelbauplatten. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihre eigenen Möbelstücke zu bauen oder zu renovieren. Ob Sie ein neues Regal, einen Schreibtisch oder eine Küchenarbeitsplatte benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unser Sortiment umfasst hochwertige Regalböden und Möbelbauplatten in verschiedenen Größen, Materialien und Farben. Darüber hinaus bieten wir auch praktisches Zubehör, um Ihre Möbelstücke zu vervollständigen. Überzeugen Sie sich selbst von unserem Angebot und entdecken Sie jetzt die Möglichkeiten des Möbelbaus bei Mobiliar-Bau."
-                    },
-                    {
-                        "title": "Regalböden & Möbelbauplatten",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Regalböden und Möbelbauplatten. Ob Sie ein neues Regal bauen oder Ihr bestehendes renovieren möchten, bei uns finden Sie garantiert das richtige Material. Wir führen eine große Auswahl an verschiedenen Größen, Farben und Materialien, damit Sie Ihre Möbel individuell gestalten können. Unsere Regalböden und Möbelbauplatten sind robust und langlebig, sodass Sie lange Freude an Ihren Möbeln haben werden. Stöbern Sie jetzt durch unser Angebot und finden Sie die passenden Regalböden und Möbelbauplatten für Ihr Projekt."
-                    },
-                    {
-                        "title": "Arbeitsplatten",
-                        "text": "Eine hochwertige Arbeitsplatte ist ein wichtiger Bestandteil einer jeden Küche. Sie muss robust, langlebig und pflegeleicht sein. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/arbeitsplatten/\" title=\"Arbeitsplatten\">Arbeitsplatten</a> in verschiedenen Größen, Farben und Materialien. Ob Sie eine neue Küche bauen oder Ihre bestehende renovieren möchten, wir haben die passende Arbeitsplatte für Sie. Unsere Arbeitsplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen lange Freude an Ihrer Küche. Stöbern Sie jetzt durch unser Angebot und finden Sie die passende Arbeitsplatte für Ihr Projekt."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für Möbelbau- und Arbeitsplatten | mobiliar-bau.de",
-            "metaDescription": "Kaufe jetzt in unserem Online Shop robuste Arbeitsplatten aus Eiche oder Nussbaum oder Möbelbauplatten & Regalböden aus Fichte, Birke, Akazie und mehr.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Qualität die sich bewehrt | mobiliar-bau.de",
-            "metaDescription": "Kaufe jetzt unsere hochwertigen und robusten Produkte von bekannten Herstellern wie OBI, Osmo, Kaindl, Flex-Well, Wenko oder Rettenmeier.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig bestellen",
-        "defaultMetaDescription": "Robust und hochwertig: $PRODUKT von der Marke $HERSTELLER. Finde auf mobiliar-bau.de das beste aus dem Bereich $KATEGORIE für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "mobiliar-bau.de",
+  "hostname": "https://www.mobiliar-bau.de/",
+  "email": "mobiliar-bau.de@surrealnetworks.io",
+  "organization": "mobiliar-bau.de",
+  "logoText": "Mobiliar-bau.de",
+  "title": "M\u00f6belbau- und Arbeitsplatten",
+  "subline": "Der Online Shop f\u00fcr robuste M\u00f6belbau- und Arbeitsplatten",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "6283352",
+    "8536567",
+    "1756808",
+    "7452600",
+    "7258429",
+    "4299665"
+  ],
+  "winnerProducts": [
+    "6108179",
+    "5292792",
+    "1794023"
+  ],
+  "featuredCategories": [
+    "Regalb\u00f6den & M\u00f6belbauplatten",
+    "Arbeitsplatten",
+    "Arbeitsplatten",
+    "Arbeitsplatten",
+    "Arbeitsplatten",
+    "Regalb\u00f6den & M\u00f6belbauplatten"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "M\u00f6belbau",
+    "featureText": "Herzlich Willkommen. Wir von mobiliar-bau.de freuen uns dich bei uns begr\u00fc\u00dfen zu d\u00fcrfen. Mit unseren Regalb\u00f6den & M\u00f6belbauplatten aus Fichte, Birke, Akazie und mehr bieten wir dir eine tolle Auswahl f\u00fcr deine M\u00f6bel. Ebenfalls in unserem Sortiment - robuste und hochwertige Arbeitsplatten zu einem fairen Preis. Ob Eiche oder Nussbaum, wir bieten Qualit\u00e4t in den verschiedensten Ausf\u00fchrungen. So findest du die perfekte Arbeitsplatte f\u00fcr dich zum g\u00fcnstigen Preis!",
+    "index": {
+      "title": "Robuste M\u00f6belbau- und Arbeitsplatten g\u00fcnstig bestellen",
+      "metaDescription": "Kaufe jetzt auf mobiliar-bau.de robuste Arbeitsplatten aus Eiche oder Nussbaum. F\u00fcr die M\u00f6bel - Regalb\u00f6den & M\u00f6belbauplatten aus Fichte, Birke, Akazie und mehr.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Mobiliar-Bau - Ihrem Experten f\u00fcr M\u00f6belbau",
+            "text": "Herzlich willkommen auf Mobiliar-Bau, Ihrem Online-Shop f\u00fcr hochwertige Regalb\u00f6den und M\u00f6belbauplatten. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Ihre eigenen M\u00f6belst\u00fccke zu bauen oder zu renovieren. Ob Sie ein neues Regal, einen Schreibtisch oder eine K\u00fcchenarbeitsplatte ben\u00f6tigen, bei uns finden Sie alles, was Sie f\u00fcr Ihr Projekt ben\u00f6tigen. Unser Sortiment umfasst hochwertige Regalb\u00f6den und M\u00f6belbauplatten in verschiedenen Gr\u00f6\u00dfen, Materialien und Farben. Dar\u00fcber hinaus bieten wir auch praktisches Zubeh\u00f6r, um Ihre M\u00f6belst\u00fccke zu vervollst\u00e4ndigen. \u00dcberzeugen Sie sich selbst von unserem Angebot und entdecken Sie jetzt die M\u00f6glichkeiten des M\u00f6belbaus bei Mobiliar-Bau."
+          },
+          {
+            "title": "Regalb\u00f6den & M\u00f6belbauplatten",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen Regalb\u00f6den und M\u00f6belbauplatten. Ob Sie ein neues Regal bauen oder Ihr bestehendes renovieren m\u00f6chten, bei uns finden Sie garantiert das richtige Material. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen, Farben und Materialien, damit Sie Ihre M\u00f6bel individuell gestalten k\u00f6nnen. Unsere Regalb\u00f6den und M\u00f6belbauplatten sind robust und langlebig, sodass Sie lange Freude an Ihren M\u00f6beln haben werden. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die passenden Regalb\u00f6den und M\u00f6belbauplatten f\u00fcr Ihr Projekt."
+          },
+          {
+            "title": "Arbeitsplatten",
+            "text": "Eine hochwertige Arbeitsplatte ist ein wichtiger Bestandteil einer jeden K\u00fcche. Sie muss robust, langlebig und pflegeleicht sein. Bei uns finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/arbeitsplatten/\" title=\"Arbeitsplatten\">Arbeitsplatten</a> in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien. Ob Sie eine neue K\u00fcche bauen oder Ihre bestehende renovieren m\u00f6chten, wir haben die passende Arbeitsplatte f\u00fcr Sie. Unsere Arbeitsplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen lange Freude an Ihrer K\u00fcche. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die passende Arbeitsplatte f\u00fcr Ihr Projekt."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
-        "defaultMetaDescription": "Hier findest du die Kombination von Qualität und Robustheit - Kaufe jetzt auf mobiliar-bau.de das Beste aus dem Bereich der $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr M\u00f6belbau- und Arbeitsplatten | mobiliar-bau.de",
+      "metaDescription": "Kaufe jetzt in unserem Online Shop robuste Arbeitsplatten aus Eiche oder Nussbaum oder M\u00f6belbauplatten & Regalb\u00f6den aus Fichte, Birke, Akazie und mehr.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Qualitativ & Robust",
-        "defaultMetaDescription": "Kaufe jetzt unsere hochwertigen Arbeitsplatten oder Regalböden & Möbelbauplatten von bewährten Herstellern wie $HERSTELLER. ",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Möbelbau",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Möbelbau Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Möbelbau Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Qualit\u00e4t die sich bewehrt | mobiliar-bau.de",
+      "metaDescription": "Kaufe jetzt unsere hochwertigen und robusten Produkte von bekannten Herstellern wie OBI, Osmo, Kaindl, Flex-Well, Wenko oder Rettenmeier.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig bestellen",
+    "defaultMetaDescription": "Robust und hochwertig: $PRODUKT von der Marke $HERSTELLER. Finde auf mobiliar-bau.de das beste aus dem Bereich $KATEGORIE f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Schnell. G\u00fcnstig. Einfach.",
+    "defaultMetaDescription": "Hier findest du die Kombination von Qualit\u00e4t und Robustheit - Kaufe jetzt auf mobiliar-bau.de das Beste aus dem Bereich der $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Qualitativ & Robust",
+    "defaultMetaDescription": "Kaufe jetzt unsere hochwertigen Arbeitsplatten oder Regalb\u00f6den & M\u00f6belbauplatten von bew\u00e4hrten Herstellern wie $HERSTELLER. ",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "M\u00f6belbau",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "M\u00f6belbau Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "M\u00f6belbau Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
