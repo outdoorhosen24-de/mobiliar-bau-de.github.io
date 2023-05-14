@@ -1,296 +1,303 @@
 {
-  "configIsReady": true,
-  "domain": "mobiliar-bau.de",
-  "hostname": "https://www.mobiliar-bau.de/",
-  "email": "mobiliar-bau.de@surrealnetworks.io",
-  "organization": "mobiliar-bau.de",
-  "logoText": "Mobiliar-bau.de",
-  "title": "Möbelbau- und Arbeitsplatten",
-  "subline": "Der Online Shop für robuste Möbelbau- und Arbeitsplatten",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "6283352",
-    "8536567",
-    "1756808",
-    "7452600",
-    "7258429",
-    "4299665"
-  ],
-  "winnerProducts": [
-    "6108179",
-    "5292792",
-    "1794023"
-  ],
-  "featuredCategories": [
-    "Regalböden & Möbelbauplatten",
-    "Arbeitsplatten",
-    "Arbeitsplatten",
-    "Arbeitsplatten",
-    "Arbeitsplatten",
-    "Regalböden & Möbelbauplatten"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Möbelbau",
-    "featureText": "Herzlich Willkommen. Wir von mobiliar-bau.de freuen uns dich bei uns begrüßen zu dürfen. Mit unseren Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr bieten wir dir eine tolle Auswahl für deine Möbel. Ebenfalls in unserem Sortiment - robuste und hochwertige Arbeitsplatten zu einem fairen Preis. Ob Eiche oder Nussbaum, wir bieten Qualität in den verschiedensten Ausführungen. So findest du die perfekte Arbeitsplatte für dich zum günstigen Preis!",
-    "index": {
-      "title": "Robuste Möbelbau- und Arbeitsplatten günstig bestellen",
-      "metaDescription": "Kaufe jetzt auf mobiliar-bau.de robuste Arbeitsplatten aus Eiche oder Nussbaum. Für die Möbel - Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Mobiliar-Bau - Ihrem Experten für Möbelbau",
-            "text": "Herzlich willkommen auf Mobiliar-Bau, Ihrem Online-Shop für hochwertige Regalböden und Möbelbauplatten. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihre eigenen Möbelstücke zu bauen oder zu renovieren. Ob Sie ein neues Regal, einen Schreibtisch oder eine Küchenarbeitsplatte benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unser Sortiment umfasst hochwertige Regalböden und Möbelbauplatten in verschiedenen Größen, Materialien und Farben. Darüber hinaus bieten wir auch praktisches Zubehör, um Ihre Möbelstücke zu vervollständigen. Überzeugen Sie sich selbst von unserem Angebot und entdecken Sie jetzt die Möglichkeiten des Möbelbaus bei Mobiliar-Bau."
-          },
-          {
-            "title": "Regalböden & Möbelbauplatten",
-            "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Regalböden und Möbelbauplatten. Ob Sie ein neues Regal bauen oder Ihr bestehendes renovieren möchten, bei uns finden Sie garantiert das richtige Material. Wir führen eine große Auswahl an verschiedenen Größen, Farben und Materialien, damit Sie Ihre Möbel individuell gestalten können. Unsere Regalböden und Möbelbauplatten sind robust und langlebig, sodass Sie lange Freude an Ihren Möbeln haben werden. Stöbern Sie jetzt durch unser Angebot und finden Sie die passenden Regalböden und Möbelbauplatten für Ihr Projekt."
-          },
-          {
-            "title": "Arbeitsplatten",
-            "text": "Eine hochwertige Arbeitsplatte ist ein wichtiger Bestandteil einer jeden Küche. Sie muss robust, langlebig und pflegeleicht sein. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/arbeitsplatten/\" title=\"Arbeitsplatten\">Arbeitsplatten</a> in verschiedenen Größen, Farben und Materialien. Ob Sie eine neue Küche bauen oder Ihre bestehende renovieren möchten, wir haben die passende Arbeitsplatte für Sie. Unsere Arbeitsplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen lange Freude an Ihrer Küche. Stöbern Sie jetzt durch unser Angebot und finden Sie die passende Arbeitsplatte für Ihr Projekt."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "mobiliar-bau.de",
+    "hostname": "https://www.mobiliar-bau.de/",
+    "email": "mobiliar-bau.de@surrealnetworks.io",
+    "organization": "mobiliar-bau.de",
+    "logoText": "Mobiliar-bau.de",
+    "title": "Möbelbau- und Arbeitsplatten",
+    "subline": "Der Online Shop für robuste Möbelbau- und Arbeitsplatten",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "6283352",
+        "8536567",
+        "1756808",
+        "7452600",
+        "7258429",
+        "4299665"
+    ],
+    "winnerProducts": [
+        "6108179",
+        "5292792",
+        "1794023"
+    ],
+    "featuredCategories": [
+        "Regalböden & Möbelbauplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Arbeitsplatten",
+        "Regalböden & Möbelbauplatten"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Möbelbau",
+        "featureText": "Herzlich Willkommen. Wir von mobiliar-bau.de freuen uns dich bei uns begrüßen zu dürfen. Mit unseren Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr bieten wir dir eine tolle Auswahl für deine Möbel. Ebenfalls in unserem Sortiment - robuste und hochwertige Arbeitsplatten zu einem fairen Preis. Ob Eiche oder Nussbaum, wir bieten Qualität in den verschiedensten Ausführungen. So findest du die perfekte Arbeitsplatte für dich zum günstigen Preis!",
+        "index": {
+            "title": "Robuste Möbelbau- und Arbeitsplatten günstig bestellen",
+            "metaDescription": "Kaufe jetzt auf mobiliar-bau.de robuste Arbeitsplatten aus Eiche oder Nussbaum. Für die Möbel - Regalböden & Möbelbauplatten aus Fichte, Birke, Akazie und mehr.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Mobiliar-Bau - Ihrem Experten für Möbelbau",
+                        "text": "Herzlich willkommen auf Mobiliar-Bau, Ihrem Online-Shop für hochwertige Regalböden und Möbelbauplatten. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihre eigenen Möbelstücke zu bauen oder zu renovieren. Ob Sie ein neues Regal, einen Schreibtisch oder eine Küchenarbeitsplatte benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unser Sortiment umfasst hochwertige Regalböden und Möbelbauplatten in verschiedenen Größen, Materialien und Farben. Darüber hinaus bieten wir auch praktisches Zubehör, um Ihre Möbelstücke zu vervollständigen. Überzeugen Sie sich selbst von unserem Angebot und entdecken Sie jetzt die Möglichkeiten des Möbelbaus bei Mobiliar-Bau."
+                    },
+                    {
+                        "title": "Regalböden & Möbelbauplatten",
+                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Regalböden und Möbelbauplatten. Ob Sie ein neues Regal bauen oder Ihr bestehendes renovieren möchten, bei uns finden Sie garantiert das richtige Material. Wir führen eine große Auswahl an verschiedenen Größen, Farben und Materialien, damit Sie Ihre Möbel individuell gestalten können. Unsere Regalböden und Möbelbauplatten sind robust und langlebig, sodass Sie lange Freude an Ihren Möbeln haben werden. Stöbern Sie jetzt durch unser Angebot und finden Sie die passenden Regalböden und Möbelbauplatten für Ihr Projekt."
+                    },
+                    {
+                        "title": "Arbeitsplatten",
+                        "text": "Eine hochwertige Arbeitsplatte ist ein wichtiger Bestandteil einer jeden Küche. Sie muss robust, langlebig und pflegeleicht sein. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/arbeitsplatten/\" title=\"Arbeitsplatten\">Arbeitsplatten</a> in verschiedenen Größen, Farben und Materialien. Ob Sie eine neue Küche bauen oder Ihre bestehende renovieren möchten, wir haben die passende Arbeitsplatte für Sie. Unsere Arbeitsplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen lange Freude an Ihrer Küche. Stöbern Sie jetzt durch unser Angebot und finden Sie die passende Arbeitsplatte für Ihr Projekt."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Der Shop für Möbelbau- und Arbeitsplatten | mobiliar-bau.de",
+            "metaDescription": "Kaufe jetzt in unserem Online Shop robuste Arbeitsplatten aus Eiche oder Nussbaum oder Möbelbauplatten & Regalböden aus Fichte, Birke, Akazie und mehr.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Qualität die sich bewehrt | mobiliar-bau.de",
+            "metaDescription": "Kaufe jetzt unsere hochwertigen und robusten Produkte von bekannten Herstellern wie OBI, Osmo, Kaindl, Flex-Well, Wenko oder Rettenmeier.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Der Shop für Möbelbau- und Arbeitsplatten | mobiliar-bau.de",
-      "metaDescription": "Kaufe jetzt in unserem Online Shop robuste Arbeitsplatten aus Eiche oder Nussbaum oder Möbelbauplatten & Regalböden aus Fichte, Birke, Akazie und mehr.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Qualität die sich bewehrt | mobiliar-bau.de",
-      "metaDescription": "Kaufe jetzt unsere hochwertigen und robusten Produkte von bekannten Herstellern wie OBI, Osmo, Kaindl, Flex-Well, Wenko oder Rettenmeier.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig bestellen",
-    "defaultMetaDescription": "Robust und hochwertig: $PRODUKT von der Marke $HERSTELLER. Finde auf mobiliar-bau.de das beste aus dem Bereich $KATEGORIE für dein Zuhause.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "6108179",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "Robust und hochwertig: $PRODUKT von der Marke $HERSTELLER. Finde auf mobiliar-bau.de das beste aus dem Bereich $KATEGORIE für dein Zuhause.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894",
-              "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894 ist die perfekte Lösung für alle, die ihre Arbeitsplatten auf stilvolle und praktische Weise abschließen möchten. Das Produkt der Marke Kaindl ist nicht nur für seine hervorragende Qualität bekannt, sondern auch für seine einfache Handhabung. Der Artikel mit der SKU 6108179 und der GTIN13 9005479065681 ist in der Kategorie Arbeitsplatten sowie in den Kategorien Startseite, Bauen und Möbelbau zu finden.</p><p class=\"justify\">Das auffällige Design des Kaindl Kantenumleimers in Steel Grey Coffee K4894 macht ihn zu einer eleganten Ergänzung für jede moderne Küche. Die Maße von 500 cm Länge und 4,5 cm Breite ermöglichen es, den Kantenumleimer für unterschiedliche Arbeitsplatten oder Möbelstücke zu verwenden. Dank der Beschichtung mit Schmelzkleber auf der Rückseite des Kantenumleimers ist die Montage unkompliziert und zeitsparend, da das Kantenmaterial schnell mit einem handelsüblichen Bügeleisen aufgetragen werden kann.</p><p class=\"justify\">Das Produkt ist für den Preis von 19,99 Euro erhältlich. Basierend auf den 229 Reviews von zufriedenen Kunden hat es eine Bewertung von 4 Sternen erhalten, was auf seine hohe Qualität und Zufriedenheit der Nutzer hinweist. Wenn Sie auf der Suche nach einer hochwertigen, einfach zu handhabenden und optisch ansprechenden Lösung für das Abschließen Ihrer Arbeitsplatten sind, ist der Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894 die ideale Wahl für Sie.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5292792",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Wandanschlussprofil 300 cm x 2,4 cm Atlantic Stone Steel",
-              "text": "<p class=\"justify\">Das Kaindl Wandanschlussprofil 300 cm x 2,4 cm Atlantic Stone Steel ist ein hochwertiges Produkt der Marke Kaindl (Artikelnummer: 5292792) und eignet sich optimal zur Gestaltung von Arbeitsplatten im Möbelbau. Die perfekte Abstimmung von Farbe und Struktur sorgt dafür, dass das Deckprofil optimal auf Ihre Küchenarbeitsplatte abgestimmt ist und ein harmonisches Gesamtbild entsteht. Die GTIN-13 des Produkts ist 9005479576309 und es ist in der Kategorie \\\"Arbeitsplatten\\\" unter den Kategorien Startseite, Bauen, Möbelbau einzuordnen.</p><p class=\"justify\">Das Wandanschlussprofil besitzt eine Länge von 300 cm und eine Breite von 2,4 cm, dadurch bietet es eine ausreichend große Abdeckfläche und ermöglicht eine saubere Aufteilung von Küchenarbeitsplatten und Wandbereichen. Der Artikel ist in der attraktiven Farbe Atlantic Stone Steel gehalten, die einen edlen und modernen Look verleiht. Das Kaindl Wandanschlussprofil bietet zudem eine hohe Bewertung mit 5 Sternen sowie eine hohe Anzahl von 387 Kundenbewertungen, was für seine Qualität spricht.</p><p class=\"justify\">Neben dem Kaindl Wandanschlussprofil können auch unifarbene Ecken und Endstücke separat erworben werden, um das Design noch weiter abzurunden und das Erscheinungsbild der Arbeitsplatte zu vervollkommnen. Das Produkt ist ideal für professionelle Anwender, die Wert auf hohe Qualität und ein ansprechendes Design legen. Mit dem Kaindl Wandanschlussprofil Atlantic Stone Steel treffen Sie eine ausgezeichnete Wahl für einen stilvollen und individuellen Möbelbau.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1794023",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kantenumleimer 65 cm x 4,4 cm Uni Weiß (A242 C) 2 Stück",
-              "text": "<p class=\"justify\">Der Kantenumleimer 65 cm x 4,4 cm Uni Weiß (A242 C) 2 Stück bietet eine hochwertige Lösung, um Schnittkanten von Arbeitsplatten sauber und professionell zu versiegeln. Hergestellt von der Marke Sonstige verleiht dieser Kantenumleimer Ihren Arbeitsflächen ein modernes und ansprechendes Erscheinungsbild.</p><p class=\"justify\">Dieses praktische Set enthält zwei Kantenumleimer in hellem Uni Weiß, die dafür gedacht sind, an kleinen Rundungen und Kanten leicht zu verarbeiten. Die Maße von 65 cm x 4,4 cm bieten eine ausreichende Länge, um verschiedene Schnittkanten abzudecken. Ihre einheitlich weiße Farbe passt zu verschiedenen Arbeitsplattenoberflächen und Möbelstücken, was die optische Harmonie in Ihrem Innenraum fördert.</p><p class=\"justify\">Die Installation dieser Kantenumleimer ist einfach und unkompliziert, sodass Sie Ihre Arbeitsplatten schnell wieder nutzen können. Das Set ist nicht nur praktisch, sondern auch langlebig und widerstandsfähig gegenüber den täglichen Anforderungen in Ihrer Küche oder Ihrem Arbeitsbereich. Die hohe Qualität dieses Produkts wird durch die durchweg positiven Bewertungen und die 5-Sterne-Bewertung der Kunden unterstrichen.</p><p class=\"justify\">Da es sich bei diesem Artikel um Kantenumleimer aus dem Bereich Arbeitsplatten handelt, ist er ideal für Heimwerker, die ihre Projekte selbst gestalten und umsetzen möchten. Ob im Bereich Bauen, Möbelbau oder sonstigen Inneneinrichtungsprojekten, diese Kantenumleimer sind ein ausgezeichnetes Zubehör, um Ihr Projekt abzurunden. Schaffen Sie eine ästhetisch ansprechende und funktionale Umgebung mit diesem hochwertigen Kantenumleimer-Set.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1791698",
-        "seo": {
-          "texts": [
-            {
-              "title": "Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante",
-              "text": "<p class=\"justify\">Die Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante (SKU: 1791698) ist ein hochwertiges und ästhetisches Möbelbauelement, das sich perfekt für den Bau Ihres individuellen Esstisches eignet. Mit einer Größe von 180 x 80 x 2,8 cm bietet diese Tischplatte ausreichend Platz für Familienessen und gesellige Abende mit Freunden. Der Einsatz von FSC®-zertifiziertem Holz zeigt das Engagement von Rettenmeier für Nachhaltigkeit und verantwortungsvolle Waldwirtschaft.</p><p class=\"justify\">Das besondere Merkmal dieser Tischplatte ist die natürliche Baumkante, die dem Möbelstück eine rustikale und lebendige Ausstrahlung verleiht. Die Wildeiche, aus der die Tischplatte gefertigt ist, ist bekannt für ihre ansprechende Maserung und hervorragende Stabilität. Sie hat eine geölte Oberfläche, die das Holz schützt und seine natürliche Schönheit unterstreicht. Durch die Kombination dieser Eigenschaften ist das Produkt ideal für den Einsatz im Wohn- und Essbereich geeignet.</p><p class=\"justify\">Obwohl diese Massivholz Tischplatte primär für den Bau von Esstischen gedacht ist, sind die Einsatzmöglichkeiten enorm vielfältig. Nutzen Sie die Platine beispielsweise als Schreibtischplatte, Küchentresen oder sogar als Wandregal - Ihrer Kreativität sind kaum Grenzen gesetzt. Darüber hinaus ermöglicht der modulare Aufbau der Tischplatte eine einfache Anpassung an Ihre individuellen Bedürfnisse, sowohl hinsichtlich der Größe als auch der Form.</p><p class=\"justify\">Die Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante ist Teil einer breiten Palette von Möbelbauplatten, die unter der Kategorie Regalböden & Möbelbauplatten erhältlich sind. Mit einer Gesamtbewertung von 5 Sternen, basierend auf 412 Kundenbewertungen, können Sie sicher sein, dass dieses Produkt Ihren Anforderungen entspricht und den höchsten Qualitätsstandards genügt. Ergänzen Sie Ihre Wohnlandschaft mit diesem einzigartigen und hochwertigen Möbelbauelement.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8290835",
-        "seo": {
-          "texts": [
-            {
-              "title": "Arbeitsplatte Massivholz 60 cm x 4 cm Kiefer max. Länge 3 m - Eine hochwertige und vielseitige Arbeitsfläche",
-              "text": "<p class=\"justify\">Die Arbeitsplatte Massivholz 60 cm x 4 cm Kiefer max. Länge 3 m aus dem Hause Sonstige ist eine ideale Lösung für alle, die nach einer robusten, langlebigen und optisch ansprechenden Arbeitsfläche suchen. Da sie aus massivem Kiefernholz gefertigt ist, bietet sie außerdem einen Hauch von Natürlichkeit und Gemütlichkeit in Ihren Räumen.</p><p class=\"justify\">Die Massivholzplatte hat eine rohe, unbehandelte Oberfläche, die sich perfekt für den Einsatz in den unterschiedlichsten Anwendungen eignet. Ob als Arbeitsplatte in der Küche oder als Tischplatte im Esszimmer – die Einsatzmöglichkeiten sind nahezu unbegrenzt. Mit einer maximalen Länge von 3 Metern kann die Platte zudem in verschiedenen Größen und Materialausführungen angepasst und erweitert werden. Dies bietet Ihnen die Möglichkeit, Ihre Möbel und Innenarchitektur individuell und genau nach Ihren Wünschen zu gestalten.</p><p class=\"justify\">Das Qualitätsprodukt mit der SKU 8290835 überzeugt durch eine Vielzahl an positiven Bewertungen und hat eine durchschnittliche Bewertung von 4 Sternen erhalten. Dies spricht für die Qualität und Langlebigkeit dieser Arbeitsplatte. Da sie aus massivem Kiefernholz gefertigt ist, besticht sie zudem durch einen natürlichen, warmen Look und ist somit eine ideale Ergänzung für jeden Wohnbereich.</p><p class=\"justify\">In der Kategorie Arbeitsplatten, Möbelbau und Bauen ist diese Massivholzplatte eine der besten Optionen, die Sie finden können. Sie ist nicht nur funktionell, sondern auch eine attraktive Bereicherung für Ihre Räume – egal, ob Sie sie zu Hause oder im Geschäft einsetzen. Mit einem Preis von 49,99 € bietet sie zudem ein exzellentes Preis-Leistungs-Verhältnis.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6107924",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine: Perfekt für Arbeitsplatten",
-              "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine ist eine praktische Lösung für alle, die ihre Arbeitsplatten mit einer stilvollen und funktionalen Kante abschließen möchten. Dieses hochwertige Produkt der bekannten Marke Kaindl bietet ein ansprechendes Eiche Arizona Pine-Design und passt hervorragend zu einer Vielzahl von Arbeitsplatten in Küchen, Bädern und Arbeitsräumen.</p><p class=\"justify\">Die Maße dieses Kantenumleimers von 500 cm Länge und 4,5 cm Breite ermöglichen eine einfache und schnelle Verarbeitung. Die Anwendung ist denkbar einfach: Dank der praktischen Schmelzkleberbeschichtung auf der Rückseite, lässt sich der Kantenstreifen mit Hilfe eines handelsüblichen Bügeleisens schnell und unkompliziert auftragen. Anschließend kann die Kante passgenau zugeschnitten und einfach an der gewünschten Stelle angebracht werden.</p><p class=\"justify\">Die Kaindl Kantenumleimer zeichnen sich durch ihre Langlebigkeit und Widerstandsfähigkeit aus. Sie bieten eine hervorragende Haftung und dienen dazu, die Lebensdauer Ihrer Arbeitsplatte zu verlängern, indem sie sie vor Abnutzung, Feuchtigkeitseinwirkung und anderen alltäglichen Belastungen schützt. Ihr Eiche Arizona Pine-Design verleiht Arbeitsplatten zudem eine ansprechende und edle Optik.</p><p class=\"justify\">Mit einer 5-Sterne-Bewertung und hohen Kundenrezensionen ist der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine eine ausgezeichnete Wahl für alle, die eine hochwertige, praktische und optisch ansprechende Lösung für ihre Arbeitsplatten suchen. Ihre Arbeitsflächen werden nicht nur bestens geschützt, sondern auch optisch aufgewertet, dank des ansprechenden Designs und des renommierten Herstellers Kaindl.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3158748",
-        "seo": {
-          "texts": [
-            {
-              "title": "CPL-Arbeitsplatte 280 cm x 63 cm x 2,8 cm Eiche Sanremo Sand von Kaindl",
-              "text": "<p class=\"justify\">Die CPL-Arbeitsplatte 280 cm x 63 cm x 2,8 cm Eiche Sanremo Sand von Kaindl ist eine exzellente Wahl für alle, die eine moderne und langlebige Arbeitsplatte suchen. Die perfekte Kombination aus Design und Funktionalität macht diese Arbeitsfläche zu einer echten Bereicherung für Ihre Küche oder Ihren Arbeitsbereich.</p><p class=\"justify\">Die Kaindl Arbeitsplatte besteht aus strapazierfähigem Kunststoff-Laminat mit 90 % Holzanteil und überzeugt durch ihre fühlbare Oberflächenstruktur und fugenlos gerundete Kanten. Dies verleiht der Arbeitsplatte nicht nur ein natürliches und edles Erscheinungsbild, sondern sorgt auch für eine angenehme Haptik.</p><p class=\"justify\">Die Eiche Sanremo Sand Arbeitsplatte ist besonders widerstandsfähig, denn sie ist hitzebeständig bis 180 °C und feuchtigkeitsbeständig dank der lackfugenversiegelten Unterseite. Dadurch eignet sie sich hervorragend für den alltäglichen Gebrauch in der Küche. Darüber hinaus ist die Arbeitsplatte leicht zu reinigen und pflegeleicht.</p><p class=\"justify\">Mit den Maßen 280 cm x 63 cm x 2,8 cm bietet die CPL-Arbeitsplatte großzügigen Platz für Ihre Küchengeräte und Arbeitsutensilien. Die Abgabe erfolgt nur in ganzen Platten, sodass Sie flexibel planen können, wie Sie die Arbeitsplatte in Ihrem Raum einsetzen möchten.</p><p class=\"justify\">Mit der Eiche Sanremo Sand Arbeitsplatte von Kaindl investieren Sie in eine hochwertige Arbeitsplatte, die sowohl im Design- als auch im Funktionsbereich überzeugt und Ihrer Küche oder Ihrem Arbeitsbereich eine wohnliche und moderne Atmosphäre verleiht. Werfen Sie einen Blick auf diese erstklassige Arbeitsfläche und lassen Sie sich von Qualität und Optik begeistern.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3811502",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Arbeitsplatte 90 cm x 3,8 cm Schiefer max. Länge 4,1 m Meterware",
-              "text": "<p class=\"justify\">Die Kaindl Arbeitsplatte 90 cm x 3,8 cm Schiefer max. Länge 4,1 m Meterware (SKU: 3811502; GTIN13: 9005479505231) ist eine hervorragende Wahl für jeden Möbelbau, insbesondere in der Kategorie Arbeitsplatten. Die Marke Kaindl ist bekannt für ihre hohe Qualität und ansprechendes Design, und diese Arbeitsplatte ist keine Ausnahme.</p><p class=\"justify\">Die attraktive Schieferoberfläche ist nicht nur ästhetisch ansprechend, sondern auch sehr funktional und widerstandsfähig. Die Arbeitsplatte ist den täglichen Belastungen in der Küche souverän gewachsen und hygienisch unbedenklich im Kontakt mit Lebensmitteln. Die leichte Reinigung und die widerstandsfähige Oberfläche machen die Arbeitsplatte abrieb- und kratzfest, genau das, was man in einem Küchenarbeitsbereich benötigt.</p><p class=\"justify\">Mit einer maximalen Länge von 4,1 Metern kann die Arbeitsplatte individuell auf Ihre Bedürfnisse zugeschnitten werden. Ob für Küchen-, Büro- oder Hobbyraummöbel, die Kaindl Arbeitsplatte bietet eine vielseitige Verwendungsmöglichkeit. Die Abmessungen von 90 cm x 3,8 cm sind gut durchdacht und sorgen für ausreichend Platz zum Arbeiten und zur Aufbewahrung von Küchenutensilien oder Dekorationen.</p><p class=\"justify\">Die Kaindl Arbeitsplatte hat bereits zahlreiche positive Bewertungen erhalten, mit einer Gesamtbewertung von 4 Sternen und 457 Rezensionen. Diese Arbeitsplatte ist zweifellos eine der besten Optionen auf dem Markt, wenn es um Langlebigkeit, Funktionalität und ansprechendes Design geht.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6107916",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139",
-              "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139 ist eines der hochwertigen Produkte der renommierten Marke Kaindl. Speziell konzipiert für den Möbelbau und Arbeitsplatten, bietet dieser Kantenumleimer eine hervorragende Möglichkeit, die Kanten Ihrer Arbeitsplatte oder Möbelstücke zu veredeln und gleichzeitig zu schützen.</p><p class=\"justify\">Dank seiner beeindruckenden Länge von 500 cm und einer Breite von 4,5 cm bietet der Kaindl Kantenumleimer Eiche Sanremo Sand 34139 genügend Material, um auch größere Projekte zu realisieren. Die Eiche Sanremo Sand Farbe ist zeitlos und elegant, sodass sie sich perfekt in jede Raumgestaltung einfügen lässt. Mit der GTIN13-Nummer 9005479065520 ist dieses Produkt außerdem eindeutig identifizierbar und leicht auffindbar.</p><p class=\"justify\">Der universelle Kaindl Kantenumleimer ist vielseitig verwendbar und leicht anzubringen. Die Beschichtung mit Schmelzkleber auf der Rückseite ermöglicht ein schnelles und unkompliziertes Auftragen mithilfe eines handelsüblichen Bügeleisens. Dieser Kantenumleimer eignet sich daher auch ideal für Heimwerker und DIY-Enthusiasten.</p><p class=\"justify\">Die Kundenbewertungen sprechen für sich: Mit einer durchschnittlichen Bewertung von 5 Sternen bei 292 Bewertungen können Sie sicher sein, dass der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139 ein qualitativ hochwertiges Produkt ist. Verleihen Sie Ihren Arbeitsplatten und Möbeln das gewisse Etwas mit diesem Kantenumleimer von Kaindl und genießen Sie die Langlebigkeit und Ästhetik, die er bietet.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1199082",
-        "seo": {
-          "texts": [
-            {
-              "title": "Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige",
-              "text": "<p class=\"justify\">Die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche der Marke Sonstige ist das ideale Produkt für all Ihre Möbelbau- und Innenausbauvorhaben. Mit einer rohen, unbehandelten Oberfläche bietet diese massive Eichenholzplatte eine natürliche und gemütliche Atmosphäre für Ihre Räumlichkeiten. Ihre Größe von 100 cm x 60 cm x 4 cm macht sie zu einer attraktiven Wahl für Esstische, Küchenarbeitsplatten und andere kreative Projekte.</p><p class=\"justify\">Diese Massivholzplatte zeichnet sich durch ihre hohe Qualität und Langlebigkeit aus. Die Eiche ist bekannt für ihre Stabilität und Festigkeit, wodurch sie perfekt für den täglichen Gebrauch geeignet ist. Darüber hinaus verfügt die Arbeitsplatte über eine GTIN-13-Nummer 4005706033402, die ihre Authentizität und Qualität bestätigt.</p><p class=\"justify\">Die Eichenholzarbeitsplatte ist in verschiedenen Größen und Materialausführungen erhältlich und bietet somit eine breite Palette an Möglichkeiten, um Ihren Möbelbau- und Innenausbauprojekten eine einzigartige und persönliche Note zu verleihen. Egal, ob Sie einen rustikalen Esstisch oder eine moderne Küchenarbeitsplatte entwerfen möchten, die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige ist die perfekte Basis für Ihr Vorhaben.</p><p class=\"justify\">Mit 372 Kundenbewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeigt die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige, dass sie den Anforderungen und Bedürfnissen der Kunden gerecht wird. Wenn Sie auf der Suche nach einer hochwertigen, stabilen und vielseitigen Arbeitsplatte für Ihr nächstes Projekt sind, ist dieses Produkt genau das Richtige für Sie. Mit einem Preis von 94,99 Euro bietet diese Arbeitsplatte ein ausgezeichnetes Preis-Leistungs-Verhältnis und stellt eine lohnenswerte Investition in die Gestaltung Ihrer Räumlichkeiten dar.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2481364",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware",
-              "text": "<p class=\"justify\">Die Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware (SKU: 2481364) ist eine hochwertige und langlebige Lösung für Ihre Küche. Sie zeichnet sich durch ihre Robustheit und das moderne Design aus, das sich nahtlos in verschiedene Einrichtungsstile einfügt. Hergestellt vom renommierten Hersteller Kaindl, ist diese Arbeitsplatte ideal für den täglichen Gebrauch und wird allen Anforderungen einer modernen Küche gerecht.</p><p class=\"justify\">Die Arbeitsplatte in Ravenna Grau ist besonders widerstandsfähig gegen Abrieb, Kratzer und tägliche Belastungen. Ihre hygienische Oberfläche ist zudem unbedenklich im Kontakt mit Lebensmitteln, was sie zu einer sicheren Wahl für Ihre Küche macht. Die Reinigung der Arbeitsplatte ist einfach und problemlos, da sie leicht abwischbar ist und keine speziellen Reinigungsmittel benötigt. Mit einer maximalen Länge von 4,1 Metern bietet die Meterware ausreichend Flexibilität für individuelle Anpassungen und zugeschnittene Lösungen je nach Bedarf und Raumvorgaben.</p><p class=\"justify\">Nicht nur ästhetisch ansprechend, sondern auch funktional überzeugt die Kaindl Arbeitsplatte durch ihre Stärke von 3,8 cm und einer Breite von 60 cm. Diese Maße gewährleisten eine solide Arbeitsfläche, die auch höheren Belastungen Stand hält. Daher eignet sich die Arbeitsplatte ideal für den Möbelbau und Küchenrenovierungsprojekte. Als Teil der Kategorie Arbeitsplatten ist sie in einem Umfeld angesiedelt, das zu hochwertigen und langlebigen Materialien gehört.</p><p class=\"justify\">Die Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware ist somit eine ausgezeichnete Wahl für alle, die eine zuverlässige, ästhetisch ansprechende und praktische Lösung für ihre Küche suchen. Mit ihrer hervorragenden Bewertung von 5 Sternen und einer Vielzahl zufriedener Kunden kann man nichts falsch machen, wenn man sich für diese Arbeitsplatte entscheidet.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
-    "defaultMetaDescription": "Hier findest du die Kombination von Qualität und Robustheit - Kaufe jetzt auf mobiliar-bau.de das Beste aus dem Bereich der $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "6108179",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894",
+                            "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894 ist die perfekte Lösung für alle, die ihre Arbeitsplatten auf stilvolle und praktische Weise abschließen möchten. Das Produkt der Marke Kaindl ist nicht nur für seine hervorragende Qualität bekannt, sondern auch für seine einfache Handhabung. Der Artikel mit der SKU 6108179 und der GTIN13 9005479065681 ist in der Kategorie Arbeitsplatten sowie in den Kategorien Startseite, Bauen und Möbelbau zu finden.</p><p class=\"justify\">Das auffällige Design des Kaindl Kantenumleimers in Steel Grey Coffee K4894 macht ihn zu einer eleganten Ergänzung für jede moderne Küche. Die Maße von 500 cm Länge und 4,5 cm Breite ermöglichen es, den Kantenumleimer für unterschiedliche Arbeitsplatten oder Möbelstücke zu verwenden. Dank der Beschichtung mit Schmelzkleber auf der Rückseite des Kantenumleimers ist die Montage unkompliziert und zeitsparend, da das Kantenmaterial schnell mit einem handelsüblichen Bügeleisen aufgetragen werden kann.</p><p class=\"justify\">Das Produkt ist für den Preis von 19,99 Euro erhältlich. Basierend auf den 229 Reviews von zufriedenen Kunden hat es eine Bewertung von 4 Sternen erhalten, was auf seine hohe Qualität und Zufriedenheit der Nutzer hinweist. Wenn Sie auf der Suche nach einer hochwertigen, einfach zu handhabenden und optisch ansprechenden Lösung für das Abschließen Ihrer Arbeitsplatten sind, ist der Kaindl Kantenumleimer 500 cm x 4,5 cm Steel Grey Coffee K4894 die ideale Wahl für Sie.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5292792",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Wandanschlussprofil 300 cm x 2,4 cm Atlantic Stone Steel",
+                            "text": "<p class=\"justify\">Das Kaindl Wandanschlussprofil 300 cm x 2,4 cm Atlantic Stone Steel ist ein hochwertiges Produkt der Marke Kaindl (Artikelnummer: 5292792) und eignet sich optimal zur Gestaltung von Arbeitsplatten im Möbelbau. Die perfekte Abstimmung von Farbe und Struktur sorgt dafür, dass das Deckprofil optimal auf Ihre Küchenarbeitsplatte abgestimmt ist und ein harmonisches Gesamtbild entsteht. Die GTIN-13 des Produkts ist 9005479576309 und es ist in der Kategorie \\\"Arbeitsplatten\\\" unter den Kategorien Startseite, Bauen, Möbelbau einzuordnen.</p><p class=\"justify\">Das Wandanschlussprofil besitzt eine Länge von 300 cm und eine Breite von 2,4 cm, dadurch bietet es eine ausreichend große Abdeckfläche und ermöglicht eine saubere Aufteilung von Küchenarbeitsplatten und Wandbereichen. Der Artikel ist in der attraktiven Farbe Atlantic Stone Steel gehalten, die einen edlen und modernen Look verleiht. Das Kaindl Wandanschlussprofil bietet zudem eine hohe Bewertung mit 5 Sternen sowie eine hohe Anzahl von 387 Kundenbewertungen, was für seine Qualität spricht.</p><p class=\"justify\">Neben dem Kaindl Wandanschlussprofil können auch unifarbene Ecken und Endstücke separat erworben werden, um das Design noch weiter abzurunden und das Erscheinungsbild der Arbeitsplatte zu vervollkommnen. Das Produkt ist ideal für professionelle Anwender, die Wert auf hohe Qualität und ein ansprechendes Design legen. Mit dem Kaindl Wandanschlussprofil Atlantic Stone Steel treffen Sie eine ausgezeichnete Wahl für einen stilvollen und individuellen Möbelbau.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1794023",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kantenumleimer 65 cm x 4,4 cm Uni Weiß (A242 C) 2 Stück",
+                            "text": "<p class=\"justify\">Der Kantenumleimer 65 cm x 4,4 cm Uni Weiß (A242 C) 2 Stück bietet eine hochwertige Lösung, um Schnittkanten von Arbeitsplatten sauber und professionell zu versiegeln. Hergestellt von der Marke Sonstige verleiht dieser Kantenumleimer Ihren Arbeitsflächen ein modernes und ansprechendes Erscheinungsbild.</p><p class=\"justify\">Dieses praktische Set enthält zwei Kantenumleimer in hellem Uni Weiß, die dafür gedacht sind, an kleinen Rundungen und Kanten leicht zu verarbeiten. Die Maße von 65 cm x 4,4 cm bieten eine ausreichende Länge, um verschiedene Schnittkanten abzudecken. Ihre einheitlich weiße Farbe passt zu verschiedenen Arbeitsplattenoberflächen und Möbelstücken, was die optische Harmonie in Ihrem Innenraum fördert.</p><p class=\"justify\">Die Installation dieser Kantenumleimer ist einfach und unkompliziert, sodass Sie Ihre Arbeitsplatten schnell wieder nutzen können. Das Set ist nicht nur praktisch, sondern auch langlebig und widerstandsfähig gegenüber den täglichen Anforderungen in Ihrer Küche oder Ihrem Arbeitsbereich. Die hohe Qualität dieses Produkts wird durch die durchweg positiven Bewertungen und die 5-Sterne-Bewertung der Kunden unterstrichen.</p><p class=\"justify\">Da es sich bei diesem Artikel um Kantenumleimer aus dem Bereich Arbeitsplatten handelt, ist er ideal für Heimwerker, die ihre Projekte selbst gestalten und umsetzen möchten. Ob im Bereich Bauen, Möbelbau oder sonstigen Inneneinrichtungsprojekten, diese Kantenumleimer sind ein ausgezeichnetes Zubehör, um Ihr Projekt abzurunden. Schaffen Sie eine ästhetisch ansprechende und funktionale Umgebung mit diesem hochwertigen Kantenumleimer-Set.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1791698",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante",
+                            "text": "<p class=\"justify\">Die Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante (SKU: 1791698) ist ein hochwertiges und ästhetisches Möbelbauelement, das sich perfekt für den Bau Ihres individuellen Esstisches eignet. Mit einer Größe von 180 x 80 x 2,8 cm bietet diese Tischplatte ausreichend Platz für Familienessen und gesellige Abende mit Freunden. Der Einsatz von FSC®-zertifiziertem Holz zeigt das Engagement von Rettenmeier für Nachhaltigkeit und verantwortungsvolle Waldwirtschaft.</p><p class=\"justify\">Das besondere Merkmal dieser Tischplatte ist die natürliche Baumkante, die dem Möbelstück eine rustikale und lebendige Ausstrahlung verleiht. Die Wildeiche, aus der die Tischplatte gefertigt ist, ist bekannt für ihre ansprechende Maserung und hervorragende Stabilität. Sie hat eine geölte Oberfläche, die das Holz schützt und seine natürliche Schönheit unterstreicht. Durch die Kombination dieser Eigenschaften ist das Produkt ideal für den Einsatz im Wohn- und Essbereich geeignet.</p><p class=\"justify\">Obwohl diese Massivholz Tischplatte primär für den Bau von Esstischen gedacht ist, sind die Einsatzmöglichkeiten enorm vielfältig. Nutzen Sie die Platine beispielsweise als Schreibtischplatte, Küchentresen oder sogar als Wandregal - Ihrer Kreativität sind kaum Grenzen gesetzt. Darüber hinaus ermöglicht der modulare Aufbau der Tischplatte eine einfache Anpassung an Ihre individuellen Bedürfnisse, sowohl hinsichtlich der Größe als auch der Form.</p><p class=\"justify\">Die Rettenmeier Massivholz Tischplatte Wildeiche mit Baumkante ist Teil einer breiten Palette von Möbelbauplatten, die unter der Kategorie Regalböden & Möbelbauplatten erhältlich sind. Mit einer Gesamtbewertung von 5 Sternen, basierend auf 412 Kundenbewertungen, können Sie sicher sein, dass dieses Produkt Ihren Anforderungen entspricht und den höchsten Qualitätsstandards genügt. Ergänzen Sie Ihre Wohnlandschaft mit diesem einzigartigen und hochwertigen Möbelbauelement.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8290835",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Arbeitsplatte Massivholz 60 cm x 4 cm Kiefer max. Länge 3 m - Eine hochwertige und vielseitige Arbeitsfläche",
+                            "text": "<p class=\"justify\">Die Arbeitsplatte Massivholz 60 cm x 4 cm Kiefer max. Länge 3 m aus dem Hause Sonstige ist eine ideale Lösung für alle, die nach einer robusten, langlebigen und optisch ansprechenden Arbeitsfläche suchen. Da sie aus massivem Kiefernholz gefertigt ist, bietet sie außerdem einen Hauch von Natürlichkeit und Gemütlichkeit in Ihren Räumen.</p><p class=\"justify\">Die Massivholzplatte hat eine rohe, unbehandelte Oberfläche, die sich perfekt für den Einsatz in den unterschiedlichsten Anwendungen eignet. Ob als Arbeitsplatte in der Küche oder als Tischplatte im Esszimmer – die Einsatzmöglichkeiten sind nahezu unbegrenzt. Mit einer maximalen Länge von 3 Metern kann die Platte zudem in verschiedenen Größen und Materialausführungen angepasst und erweitert werden. Dies bietet Ihnen die Möglichkeit, Ihre Möbel und Innenarchitektur individuell und genau nach Ihren Wünschen zu gestalten.</p><p class=\"justify\">Das Qualitätsprodukt mit der SKU 8290835 überzeugt durch eine Vielzahl an positiven Bewertungen und hat eine durchschnittliche Bewertung von 4 Sternen erhalten. Dies spricht für die Qualität und Langlebigkeit dieser Arbeitsplatte. Da sie aus massivem Kiefernholz gefertigt ist, besticht sie zudem durch einen natürlichen, warmen Look und ist somit eine ideale Ergänzung für jeden Wohnbereich.</p><p class=\"justify\">In der Kategorie Arbeitsplatten, Möbelbau und Bauen ist diese Massivholzplatte eine der besten Optionen, die Sie finden können. Sie ist nicht nur funktionell, sondern auch eine attraktive Bereicherung für Ihre Räume – egal, ob Sie sie zu Hause oder im Geschäft einsetzen. Mit einem Preis von 49,99 € bietet sie zudem ein exzellentes Preis-Leistungs-Verhältnis.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6107924",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine: Perfekt für Arbeitsplatten",
+                            "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine ist eine praktische Lösung für alle, die ihre Arbeitsplatten mit einer stilvollen und funktionalen Kante abschließen möchten. Dieses hochwertige Produkt der bekannten Marke Kaindl bietet ein ansprechendes Eiche Arizona Pine-Design und passt hervorragend zu einer Vielzahl von Arbeitsplatten in Küchen, Bädern und Arbeitsräumen.</p><p class=\"justify\">Die Maße dieses Kantenumleimers von 500 cm Länge und 4,5 cm Breite ermöglichen eine einfache und schnelle Verarbeitung. Die Anwendung ist denkbar einfach: Dank der praktischen Schmelzkleberbeschichtung auf der Rückseite, lässt sich der Kantenstreifen mit Hilfe eines handelsüblichen Bügeleisens schnell und unkompliziert auftragen. Anschließend kann die Kante passgenau zugeschnitten und einfach an der gewünschten Stelle angebracht werden.</p><p class=\"justify\">Die Kaindl Kantenumleimer zeichnen sich durch ihre Langlebigkeit und Widerstandsfähigkeit aus. Sie bieten eine hervorragende Haftung und dienen dazu, die Lebensdauer Ihrer Arbeitsplatte zu verlängern, indem sie sie vor Abnutzung, Feuchtigkeitseinwirkung und anderen alltäglichen Belastungen schützt. Ihr Eiche Arizona Pine-Design verleiht Arbeitsplatten zudem eine ansprechende und edle Optik.</p><p class=\"justify\">Mit einer 5-Sterne-Bewertung und hohen Kundenrezensionen ist der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Arizona Pine eine ausgezeichnete Wahl für alle, die eine hochwertige, praktische und optisch ansprechende Lösung für ihre Arbeitsplatten suchen. Ihre Arbeitsflächen werden nicht nur bestens geschützt, sondern auch optisch aufgewertet, dank des ansprechenden Designs und des renommierten Herstellers Kaindl.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3158748",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "CPL-Arbeitsplatte 280 cm x 63 cm x 2,8 cm Eiche Sanremo Sand von Kaindl",
+                            "text": "<p class=\"justify\">Die CPL-Arbeitsplatte 280 cm x 63 cm x 2,8 cm Eiche Sanremo Sand von Kaindl ist eine exzellente Wahl für alle, die eine moderne und langlebige Arbeitsplatte suchen. Die perfekte Kombination aus Design und Funktionalität macht diese Arbeitsfläche zu einer echten Bereicherung für Ihre Küche oder Ihren Arbeitsbereich.</p><p class=\"justify\">Die Kaindl Arbeitsplatte besteht aus strapazierfähigem Kunststoff-Laminat mit 90 % Holzanteil und überzeugt durch ihre fühlbare Oberflächenstruktur und fugenlos gerundete Kanten. Dies verleiht der Arbeitsplatte nicht nur ein natürliches und edles Erscheinungsbild, sondern sorgt auch für eine angenehme Haptik.</p><p class=\"justify\">Die Eiche Sanremo Sand Arbeitsplatte ist besonders widerstandsfähig, denn sie ist hitzebeständig bis 180 °C und feuchtigkeitsbeständig dank der lackfugenversiegelten Unterseite. Dadurch eignet sie sich hervorragend für den alltäglichen Gebrauch in der Küche. Darüber hinaus ist die Arbeitsplatte leicht zu reinigen und pflegeleicht.</p><p class=\"justify\">Mit den Maßen 280 cm x 63 cm x 2,8 cm bietet die CPL-Arbeitsplatte großzügigen Platz für Ihre Küchengeräte und Arbeitsutensilien. Die Abgabe erfolgt nur in ganzen Platten, sodass Sie flexibel planen können, wie Sie die Arbeitsplatte in Ihrem Raum einsetzen möchten.</p><p class=\"justify\">Mit der Eiche Sanremo Sand Arbeitsplatte von Kaindl investieren Sie in eine hochwertige Arbeitsplatte, die sowohl im Design- als auch im Funktionsbereich überzeugt und Ihrer Küche oder Ihrem Arbeitsbereich eine wohnliche und moderne Atmosphäre verleiht. Werfen Sie einen Blick auf diese erstklassige Arbeitsfläche und lassen Sie sich von Qualität und Optik begeistern.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3811502",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Arbeitsplatte 90 cm x 3,8 cm Schiefer max. Länge 4,1 m Meterware",
+                            "text": "<p class=\"justify\">Die Kaindl Arbeitsplatte 90 cm x 3,8 cm Schiefer max. Länge 4,1 m Meterware (SKU: 3811502; GTIN13: 9005479505231) ist eine hervorragende Wahl für jeden Möbelbau, insbesondere in der Kategorie Arbeitsplatten. Die Marke Kaindl ist bekannt für ihre hohe Qualität und ansprechendes Design, und diese Arbeitsplatte ist keine Ausnahme.</p><p class=\"justify\">Die attraktive Schieferoberfläche ist nicht nur ästhetisch ansprechend, sondern auch sehr funktional und widerstandsfähig. Die Arbeitsplatte ist den täglichen Belastungen in der Küche souverän gewachsen und hygienisch unbedenklich im Kontakt mit Lebensmitteln. Die leichte Reinigung und die widerstandsfähige Oberfläche machen die Arbeitsplatte abrieb- und kratzfest, genau das, was man in einem Küchenarbeitsbereich benötigt.</p><p class=\"justify\">Mit einer maximalen Länge von 4,1 Metern kann die Arbeitsplatte individuell auf Ihre Bedürfnisse zugeschnitten werden. Ob für Küchen-, Büro- oder Hobbyraummöbel, die Kaindl Arbeitsplatte bietet eine vielseitige Verwendungsmöglichkeit. Die Abmessungen von 90 cm x 3,8 cm sind gut durchdacht und sorgen für ausreichend Platz zum Arbeiten und zur Aufbewahrung von Küchenutensilien oder Dekorationen.</p><p class=\"justify\">Die Kaindl Arbeitsplatte hat bereits zahlreiche positive Bewertungen erhalten, mit einer Gesamtbewertung von 4 Sternen und 457 Rezensionen. Diese Arbeitsplatte ist zweifellos eine der besten Optionen auf dem Markt, wenn es um Langlebigkeit, Funktionalität und ansprechendes Design geht.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6107916",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139",
+                            "text": "<p class=\"justify\">Der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139 ist eines der hochwertigen Produkte der renommierten Marke Kaindl. Speziell konzipiert für den Möbelbau und Arbeitsplatten, bietet dieser Kantenumleimer eine hervorragende Möglichkeit, die Kanten Ihrer Arbeitsplatte oder Möbelstücke zu veredeln und gleichzeitig zu schützen.</p><p class=\"justify\">Dank seiner beeindruckenden Länge von 500 cm und einer Breite von 4,5 cm bietet der Kaindl Kantenumleimer Eiche Sanremo Sand 34139 genügend Material, um auch größere Projekte zu realisieren. Die Eiche Sanremo Sand Farbe ist zeitlos und elegant, sodass sie sich perfekt in jede Raumgestaltung einfügen lässt. Mit der GTIN13-Nummer 9005479065520 ist dieses Produkt außerdem eindeutig identifizierbar und leicht auffindbar.</p><p class=\"justify\">Der universelle Kaindl Kantenumleimer ist vielseitig verwendbar und leicht anzubringen. Die Beschichtung mit Schmelzkleber auf der Rückseite ermöglicht ein schnelles und unkompliziertes Auftragen mithilfe eines handelsüblichen Bügeleisens. Dieser Kantenumleimer eignet sich daher auch ideal für Heimwerker und DIY-Enthusiasten.</p><p class=\"justify\">Die Kundenbewertungen sprechen für sich: Mit einer durchschnittlichen Bewertung von 5 Sternen bei 292 Bewertungen können Sie sicher sein, dass der Kaindl Kantenumleimer 500 cm x 4,5 cm Eiche Sanremo Sand 34139 ein qualitativ hochwertiges Produkt ist. Verleihen Sie Ihren Arbeitsplatten und Möbeln das gewisse Etwas mit diesem Kantenumleimer von Kaindl und genießen Sie die Langlebigkeit und Ästhetik, die er bietet.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1199082",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige",
+                            "text": "<p class=\"justify\">Die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche der Marke Sonstige ist das ideale Produkt für all Ihre Möbelbau- und Innenausbauvorhaben. Mit einer rohen, unbehandelten Oberfläche bietet diese massive Eichenholzplatte eine natürliche und gemütliche Atmosphäre für Ihre Räumlichkeiten. Ihre Größe von 100 cm x 60 cm x 4 cm macht sie zu einer attraktiven Wahl für Esstische, Küchenarbeitsplatten und andere kreative Projekte.</p><p class=\"justify\">Diese Massivholzplatte zeichnet sich durch ihre hohe Qualität und Langlebigkeit aus. Die Eiche ist bekannt für ihre Stabilität und Festigkeit, wodurch sie perfekt für den täglichen Gebrauch geeignet ist. Darüber hinaus verfügt die Arbeitsplatte über eine GTIN-13-Nummer 4005706033402, die ihre Authentizität und Qualität bestätigt.</p><p class=\"justify\">Die Eichenholzarbeitsplatte ist in verschiedenen Größen und Materialausführungen erhältlich und bietet somit eine breite Palette an Möglichkeiten, um Ihren Möbelbau- und Innenausbauprojekten eine einzigartige und persönliche Note zu verleihen. Egal, ob Sie einen rustikalen Esstisch oder eine moderne Küchenarbeitsplatte entwerfen möchten, die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige ist die perfekte Basis für Ihr Vorhaben.</p><p class=\"justify\">Mit 372 Kundenbewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeigt die Arbeitsplatte Massivholz 100 cm x 60 cm x 4 cm Eiche von Sonstige, dass sie den Anforderungen und Bedürfnissen der Kunden gerecht wird. Wenn Sie auf der Suche nach einer hochwertigen, stabilen und vielseitigen Arbeitsplatte für Ihr nächstes Projekt sind, ist dieses Produkt genau das Richtige für Sie. Mit einem Preis von 94,99 Euro bietet diese Arbeitsplatte ein ausgezeichnetes Preis-Leistungs-Verhältnis und stellt eine lohnenswerte Investition in die Gestaltung Ihrer Räumlichkeiten dar.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2481364",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware",
+                            "text": "<p class=\"justify\">Die Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware (SKU: 2481364) ist eine hochwertige und langlebige Lösung für Ihre Küche. Sie zeichnet sich durch ihre Robustheit und das moderne Design aus, das sich nahtlos in verschiedene Einrichtungsstile einfügt. Hergestellt vom renommierten Hersteller Kaindl, ist diese Arbeitsplatte ideal für den täglichen Gebrauch und wird allen Anforderungen einer modernen Küche gerecht.</p><p class=\"justify\">Die Arbeitsplatte in Ravenna Grau ist besonders widerstandsfähig gegen Abrieb, Kratzer und tägliche Belastungen. Ihre hygienische Oberfläche ist zudem unbedenklich im Kontakt mit Lebensmitteln, was sie zu einer sicheren Wahl für Ihre Küche macht. Die Reinigung der Arbeitsplatte ist einfach und problemlos, da sie leicht abwischbar ist und keine speziellen Reinigungsmittel benötigt. Mit einer maximalen Länge von 4,1 Metern bietet die Meterware ausreichend Flexibilität für individuelle Anpassungen und zugeschnittene Lösungen je nach Bedarf und Raumvorgaben.</p><p class=\"justify\">Nicht nur ästhetisch ansprechend, sondern auch funktional überzeugt die Kaindl Arbeitsplatte durch ihre Stärke von 3,8 cm und einer Breite von 60 cm. Diese Maße gewährleisten eine solide Arbeitsfläche, die auch höheren Belastungen Stand hält. Daher eignet sich die Arbeitsplatte ideal für den Möbelbau und Küchenrenovierungsprojekte. Als Teil der Kategorie Arbeitsplatten ist sie in einem Umfeld angesiedelt, das zu hochwertigen und langlebigen Materialien gehört.</p><p class=\"justify\">Die Kaindl Arbeitsplatte 60 cm x 3,8 cm Ravenna Grau max. Länge 4,1 m Meterware ist somit eine ausgezeichnete Wahl für alle, die eine zuverlässige, ästhetisch ansprechende und praktische Lösung für ihre Küche suchen. Mit ihrer hervorragenden Bewertung von 5 Sternen und einer Vielzahl zufriedener Kunden kann man nichts falsch machen, wenn man sich für diese Arbeitsplatte entscheidet.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
+        "defaultMetaDescription": "Hier findest du die Kombination von Qualität und Robustheit - Kaufe jetzt auf mobiliar-bau.de das Beste aus dem Bereich der $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Qualitativ & Robust",
+        "defaultMetaDescription": "Kaufe jetzt unsere hochwertigen Arbeitsplatten oder Regalböden & Möbelbauplatten von bewährten Herstellern wie $HERSTELLER. ",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Möbelbau",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Möbelbau Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Möbelbau Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Qualitativ & Robust",
-    "defaultMetaDescription": "Kaufe jetzt unsere hochwertigen Arbeitsplatten oder Regalböden & Möbelbauplatten von bewährten Herstellern wie $HERSTELLER. ",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Möbelbau",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Möbelbau Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Möbelbau Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
